@@ -20,8 +20,13 @@
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
  
-    
-    
-    
+var result = [4, 10, 22, 125, 19]
+
+
+console.log(result)
+ //input: 2 numbers
+ //Output: array of number wiht range of the input  
     // YOUR CODE GOES ABOVE HERE //
 }
+range(4,19)
+range(19,4)
